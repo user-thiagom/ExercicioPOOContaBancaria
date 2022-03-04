@@ -1,0 +1,15 @@
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ExercicioPOOContaBancaria.exe
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ExercicioPOOContaBancaria.deps.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ExercicioPOOContaBancaria.runtimeconfig.json
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ExercicioPOOContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ref\ExercicioPOOContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\bin\Debug\net6.0\ExercicioPOOContaBancaria.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.csproj.AssemblyReference.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.AssemblyInfoInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.AssemblyInfo.cs
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ref\ExercicioPOOContaBancaria.dll
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.pdb
+C:\Users\thiag\Workspace VisualStudio\ExercicioPOOContaBancaria\obj\Debug\net6.0\ExercicioPOOContaBancaria.genruntimeconfig.cache
